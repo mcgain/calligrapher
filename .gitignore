@@ -8,3 +8,4 @@ config/secrets.json
 log/*
 .rubocop-*
 coverage
+db/neo4j/development/
