@@ -1,0 +1,10 @@
+.byebug_history
+vendor/
+tmp/
+.bundle/
+log/development.log
+config/secrets.json
+**/*.yarb
+log/*
+.rubocop-*
+coverage
